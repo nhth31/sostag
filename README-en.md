@@ -27,3 +27,15 @@ This project was a collaborative team effort. My primary responsibilities includ
 ## 👥 Authors & Acknowledgments
 * **Team Project** for the Gia Lai Science and Engineering Competition 2025.
 * Special thanks to our guiding teachers and teammates for support during development.
+
+---
+
+## License
+
+Copyright © 2026 SOS Tag Project Contributors. All rights reserved.
+
+This repository is provided for portfolio, educational, and demonstration purposes only. No license is granted to use, modify, reproduce, or redistribute the software or APK, except as permitted by applicable law or GitHub's Terms of Service.
+
+For permission to reuse or redistribute any part of this project, please contact the project maintainers.
+
+This project was developed collaboratively. Rights to individual contributions remain subject to their respective ownership and applicable third-party licenses.
